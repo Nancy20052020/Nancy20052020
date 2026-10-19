@@ -56,8 +56,8 @@ Hackathons: IIC Top 17%, Prastuti finalist, IES MCRC 2nd place.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nancy20052020&show_icons=true&hide_border=true&hide_rank=true&title_color=e6d3a3&icon_color=d4b15a&text_color=f7f1e6&bg_color=16111c" />
-    <img height="165" alt="GitHub stats for Nancy Verma" src="https://github-readme-stats.vercel.app/api?username=Nancy20052020&show_icons=true&hide_border=true&hide_rank=true&title_color=6b3fa0&icon_color=b8860b&text_color=3d2914&bg_color=f7f1e6" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.png" />
+    <img height="195" alt="All-time GitHub stats for Nancy Verma" src="./assets/github-stats-light.png" />
   </picture>
   &nbsp;&nbsp;
   <picture>
