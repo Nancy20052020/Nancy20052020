@@ -12,7 +12,15 @@ Aspiring software engineer and AI & ML student, charting a path through code, re
   <a href="mailto:nancy2005nov@gmail.com">nancy2005nov@gmail.com</a>
 </p>
 
-## Now
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,react,nextjs,tailwind,flask,tensorflow,pytorch,git,docker" alt="Python, C++, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Flask, TensorFlow, PyTorch, Git, and Docker" />
+</p>
+
+Python, C++, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Flask, TensorFlow, Keras, scikit-learn, PyTorch, Git, Docker. Also Google Earth Engine, Colab, LaTeX, and VS Code.
+
+## Experience
 
 - **Software engineering intern** at Grids App LLC, shipping product features.
 - **B.Tech in Artificial Intelligence & Machine Learning** at Manipal University Jaipur, 2023–2027. CGPA 9.79 / 10. Dean’s List, and the Dr. TMA Pai Merit Scholarship.
@@ -44,20 +52,12 @@ Remote sensing and GIS internship at India Space Academy, using Google Earth Eng
 
 Hackathons: IIC Top 17%, Prastuti finalist, IES MCRC 2nd place.
 
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,react,nextjs,tailwind,flask,tensorflow,pytorch,git,docker" alt="Python, C++, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Flask, TensorFlow, PyTorch, Git, and Docker" />
-</p>
-
-Python, C++, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind, Flask, TensorFlow, Keras, scikit-learn, PyTorch, Git, Docker. Also Google Earth Engine, Colab, LaTeX, and VS Code.
-
 ## GitHub
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nancy20052020&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&title_color=e6d3a3&icon_color=d4b15a&text_color=f7f1e6&bg_color=16111c" />
-    <img height="165" alt="GitHub stats for Nancy Verma" src="https://github-readme-stats.vercel.app/api?username=Nancy20052020&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&title_color=6b3fa0&icon_color=b8860b&text_color=3d2914&bg_color=f7f1e6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nancy20052020&show_icons=true&hide_border=true&hide_rank=true&title_color=e6d3a3&icon_color=d4b15a&text_color=f7f1e6&bg_color=16111c" />
+    <img height="165" alt="GitHub stats for Nancy Verma" src="https://github-readme-stats.vercel.app/api?username=Nancy20052020&show_icons=true&hide_border=true&hide_rank=true&title_color=6b3fa0&icon_color=b8860b&text_color=3d2914&bg_color=f7f1e6" />
   </picture>
   &nbsp;&nbsp;
   <picture>
